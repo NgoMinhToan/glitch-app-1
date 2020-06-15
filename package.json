@@ -1,0 +1,22 @@
+{
+  "name": "glitch-app-1",
+  "version": "1.0.0",
+  "description": "Create a demo app on Glitch",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgoMinhToan/glitch-app-1.git"
+  },
+  "author": "Minh Toan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgoMinhToan/glitch-app-1/issues"
+  },
+  "homepage": "https://github.com/NgoMinhToan/glitch-app-1#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
